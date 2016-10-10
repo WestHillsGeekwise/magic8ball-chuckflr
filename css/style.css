@@ -1,1 +1,18 @@
 /*use this file to style your project however you like*/
+body
+{
+  text-align: center;
+}
+#answers
+{
+  background-image: url("http://planetoftheweb.com/i/8ball/empty.png");
+  background-size: contain;
+  margin: auto;
+  width: 37.5em;
+  height: 37.5em;
+}
+img
+{
+	width:37.5em;
+	height:37.5em;
+}
